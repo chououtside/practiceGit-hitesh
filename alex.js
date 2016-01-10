@@ -35,5 +35,4 @@ each = function(collection, iterator) {
     };
 
 console.log(checkChar("h","hitesh lala"));
-dsd
 
