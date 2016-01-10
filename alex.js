@@ -18,3 +18,5 @@ var checkChar = function(char, string){
   
 
 };
+
+console.log(checkChar("h","hitesh lala"));
