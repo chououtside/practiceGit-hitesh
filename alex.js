@@ -36,3 +36,4 @@ each = function(collection, iterator) {
 
 console.log(checkChar("h","hitesh lala"));
 
+console.log("hello");
